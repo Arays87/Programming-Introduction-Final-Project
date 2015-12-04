@@ -1,6 +1,6 @@
 # Final-Project
 ## An introduction to programming with C++
-### Sudoku solving algorithm
+### Sudoku solving program
 
 ##### Program function:
 1. Allows user to input puzzle.
